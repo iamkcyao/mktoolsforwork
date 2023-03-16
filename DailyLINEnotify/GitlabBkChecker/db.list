@@ -1,0 +1,2 @@
+GitLabRD /data/GitRD gs://9splay-gitlab-rd-new/DataBackup/GitRD/
+GitLabSD /data/Git/gitlab_backup gs://9splay-gitlab-sd/DataBackup/Git/gitlab_backup/
